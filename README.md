@@ -1,4 +1,6 @@
-### Hi there 👋
+# Gaurav Kamath
+## Software Developer @ Microsoft
+### [twitter](https://twitter.com/kamathgaurav) | [github](https://github.com/st0le) | [keybase](https://keybase.io/gauravkamath)
 
 <!--
 **st0le/st0le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
